@@ -2,9 +2,9 @@ import './App.css';
 import React from 'react';
 
 class App extends React.Component {
-  // constructor(props) {
-  //   super(props);
-  // }
+  constructor(props) {
+    super(props);
+  }
 
   render() {
     const numbers = [1, 2, 3, 4, 5];
